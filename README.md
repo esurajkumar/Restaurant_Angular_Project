@@ -104,14 +104,25 @@ DATABASE Details---
     },}
 
     ------------------------------------------------------------------------
+    
+    
+    
+    
+    
+    
+    
+    
     FIREBASE Install---------
+    
+          L:\Project\Restaurant>   npm install -g firebase-tools    / firebase --version      /ng add @angular/fire
 
-L:\Project\Restaurant>   npm install -g firebase-tools    / firebase --version      /ng add @angular/fire
+
 
 
 
 JSON run on cmd---------------------
-JSON DB>json-server --watch Restaurant_DB.json
+                  JSON DB>json-server --watch Restaurant_DB.json
+
 
 
 

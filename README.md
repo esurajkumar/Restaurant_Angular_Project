@@ -104,3 +104,22 @@ DATABASE Details---
     },}
 
     ------------------------------------------------------------------------
+    FIREBASE Install---------
+
+L:\Project\Restaurant>   npm install -g firebase-tools    / firebase --version      /ng add @angular/fire
+
+
+
+JSON run on cmd---------------------
+JSON DB>json-server --watch Restaurant_DB.json
+
+
+
+Github push command-------------------
+. git init
+. git status
+. git add .
+. git commit -m "comment"
+. git remote add origin ssh_link
+. git push origin master/main
+.. git push origin master --force
